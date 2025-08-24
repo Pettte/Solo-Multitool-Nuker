@@ -7,6 +7,7 @@ This nuker abuses the discord api to mess with user accounts.
 
 # ⚙️ Installation
 Install python from https://devguide.python.org/versions/#versions
+
 Double click the start.bat file
 
 # 🖼️ Preview
